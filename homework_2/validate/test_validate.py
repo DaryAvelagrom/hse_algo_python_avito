@@ -1,6 +1,6 @@
 import pytest
 
-from validate.algo import validate
+from homework_2.validate.algo import validate
 
 
 @pytest.mark.parametrize(

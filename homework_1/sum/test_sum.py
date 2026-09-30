@@ -1,6 +1,6 @@
 import pytest
 
-from sum.algo import max_even_sum
+from homework_1.sum.algo import max_even_sum
 
 
 @pytest.mark.parametrize(

@@ -1,6 +1,6 @@
 import pytest
 
-from merge_lists.algo import LinkedList, merge_lists_tmp, merge_lists_no_tmp
+from homework_2.merge_lists.algo import LinkedList, merge_lists_tmp, merge_lists_no_tmp
 
 
 MERGE_FUNCTIONS = [merge_lists_tmp, merge_lists_no_tmp]

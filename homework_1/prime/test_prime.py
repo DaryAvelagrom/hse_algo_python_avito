@@ -1,6 +1,6 @@
 import pytest
 
-from prime.algo import count_primes
+from homework_1.prime.algo import count_primes
 
 
 @pytest.mark.parametrize(

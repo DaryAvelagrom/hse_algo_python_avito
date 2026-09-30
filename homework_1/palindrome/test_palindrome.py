@@ -1,6 +1,6 @@
 import pytest
 
-from palindrome.algo import is_palindrome
+from homework_1.palindrome.algo import is_palindrome
 
 
 @pytest.mark.parametrize(

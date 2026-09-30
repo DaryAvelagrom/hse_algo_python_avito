@@ -1,6 +1,6 @@
 import pytest
 
-from stack_vs_queue.algo import Fifo, LinkedList, Lifo
+from homework_2.stack_vs_queue.algo import Fifo, LinkedList, Lifo
 
 
 @pytest.mark.parametrize(
